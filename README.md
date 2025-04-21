@@ -409,6 +409,10 @@ git rebase --continue
 
 ❗ Try to avoid —force option when using rebase. It can cause issues with the project history. I have seen many horror stories of people using —force to fix conflicts.
 
+❗ Never Rebase commits that you've shared/pushed to Github
+
+❗ Some companies have strict guidelines regarding commit messages like ticket id to be added. You can use rebase to re-write your git history, before sending a pull request
+
 ---  
 
 
