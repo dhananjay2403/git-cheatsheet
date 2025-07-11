@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS folder attributes
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# VS Code settings
+.vscode/
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Other common
+*.swp
+*.swo
+*~
